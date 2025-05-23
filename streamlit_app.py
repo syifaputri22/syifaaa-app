@@ -4,4 +4,4 @@ st.title("syifa new app")
 st.write(
     "hello guyss"
 )
-st.image("niederlande-den-haag-scheveningen-strand.jpg", width=200)
+st.image("4aaa61e2dee399e514b3f7c9db82d6b0.jpg", width=200)
